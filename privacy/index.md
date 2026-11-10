@@ -60,7 +60,7 @@ Vi behandler billederne på baggrund af dit samtykke (GDPR artikel 6, stk. 1, li
 
 Du har ret til at få indsigt i, rette, slette og begrænse behandlingen af oplysninger om dig, til at modtage dem i et almindeligt format og til at gøre indsigelse. Du kan til enhver tid trække dit samtykke tilbage uden at det påvirker lovligheden af den behandling, der er sket før.
 
-Skriv til [DIN SUPPORT-E-MAIL], hvis du vil bruge dine rettigheder. Du har også ret til at klage til Datatilsynet: https://www.datatilsynet.dk
+Skriv til [gymai.app.support@gmail.com], hvis du vil bruge dine rettigheder. Du har også ret til at klage til Datatilsynet: https://www.datatilsynet.dk
 
 ## Sikkerhed
 
