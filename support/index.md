@@ -2,7 +2,7 @@
 
 Har du spørgsmål eller har du fundet en fejl? Skriv til os, så svarer vi så hurtigt, vi kan:
 
-**[gymai.app.support@gmail.com]**
+**gymai.app.support@gmail.com**
 
 ## Ofte stillede spørgsmål
 
