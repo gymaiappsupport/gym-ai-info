@@ -1,6 +1,6 @@
 # Privatlivspolitik for Gym AI
 
-Senest opdateret: 10. november 2026
+Senest opdateret: 14. november 2026
 
 Gym AI er en app, der hjælper gymnaster og trænere med at analysere spring i Tumble, Trampet og Gulv. Her kan du læse, hvilke oplysninger appen bruger, hvorfor, og hvilke rettigheder du har.
 
@@ -32,6 +32,11 @@ Din video i fuld længde sendes ikke. Vi gemmer ikke billederne på vores server
 
 Oplysningerne sendes kun, hvis du har givet samtykke i appen. Du kan trække samtykket tilbage under **Profil → Samtykke**. Så sendes der ikke flere billeder.
 
+## Tekniske oplysninger på vores server
+
+For at drive tjenesten og beskytte den mod misbrug gemmer vores server et anonymt bruger-ID, antallet og tidspunktet for dine analyser og den IP-adresse, forespørgslen kom fra. IP-adressen bruges kun til at begrænse misbrug (fx for mange analyser fra samme netværk). Du skal ikke oprette en konto eller give dit navn. Oplysningerne slettes automatisk efter 35 dage.
+
+
 ## Billeder af andre personer og børn
 
 Videoer kan vise børn og andre personer. Du må kun bruge videoer, hvor du har tilladelse fra de personer, der er med (eller deres forældre). Det bekræfter du i appen, før du kan analysere.
@@ -41,7 +46,7 @@ Appen er til gymnaster, trænere og forældre. Børn under 13 år bør kun bruge
 ## Hvem modtager oplysningerne?
 
 - **Anthropic** laver analysen af billederne med kunstig intelligens. Anthropic behandler oplysningerne efter deres egne vilkår: https://www.anthropic.com/legal/privacy
-- **Supabase** driver den server, som appen kommunikerer med, og gemmer et anonymt bruger-ID og antallet af analyser. Læs mere: https://supabase.com/privacy
+- **Supabase** driver den server, som appen kommunikerer med, og gemmer et anonymt bruger-ID, antallet af analyser og den IP-adresse, der er nævnt ovenfor. Læs mere: https://supabase.com/privacy
 
 Vi sælger ikke oplysninger, og appen indeholder ingen reklamer og ingen sporing til markedsføring.
 
@@ -51,10 +56,11 @@ Oplysninger kan blive behandlet uden for EU/EØS, bl.a. i USA, hos de to modtage
 
 Vi behandler billederne på baggrund af dit samtykke (GDPR artikel 6, stk. 1, litra a). Det anonyme bruger-ID og antal analyser bruger vi for at kunne drive tjenesten og beskytte den mod misbrug (artikel 6, stk. 1, litra f).
 
+
 ## Hvor længe gemmes oplysningerne?
 
 - På din telefon: indtil du sletter dem eller appen.
-- På vores server: et anonymt bruger-ID og antal analyser gemmes, så længe tjenesten bruges. Vil du have dem slettet, så skriv til os.
+- På vores server: antallet og tidspunktet for dine analyser og den IP-adresse, de blev sendt fra, slettes automatisk efter 35 dage. Det anonyme bruger-ID, som appen bruger til at tælle dine analyser, gemmes, så længe du bruger appen.
 
 ## Dine rettigheder
 
