@@ -34,7 +34,7 @@ The information is only sent if you have given consent in the app. You can withd
 
 ## Technical information stored on our server
 
-To run the service and protect it from misuse, our server stores an anonymous user ID, the number and time of your analyses, and the IP address the request came from. The IP address is used only to limit misuse (for example, too many analyses from the same network). You do not need to create an account or give your name.
+To run the service and protect it from misuse, our server stores an anonymous user ID, the number and time of your analyses, and the IP address the request came from. The IP address is used only to limit misuse (for example, too many analyses from the same network). You do not need to create an account or give your name. This information is deleted automatically after 35 days.
 
 ## Images of other people and children
 
@@ -58,7 +58,7 @@ We process the frames based on your consent (GDPR Article 6(1)(a)). We use the a
 ## How long is the information kept?
 
 - On your phone: until you delete it or delete the app.
-- On our server: the anonymous user ID, number of analyses and IP address are kept for as long as the service is used. If you want them deleted, write to us.
+- On our server: the number and time of your analyses and the IP address they were sent from are deleted automatically after 35 days. The anonymous user ID the app uses to count your analyses is kept for as long as you use the app.
 
 ## Your rights
 
